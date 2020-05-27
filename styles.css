@@ -1,0 +1,13 @@
+.pattern {
+    width: 250px;
+    height: 250px;
+    border: 1px solid #000;
+
+    background-image: paint(pattern);
+    --pattern-color: #FFCC00;
+    --pattern-size: 23;
+    --pattern-spacing: 0;
+    --pattern-shadow-blur: 10;
+    --pattern-shadow-x: 10;
+    --pattern-shadow-y: 1;
+}
